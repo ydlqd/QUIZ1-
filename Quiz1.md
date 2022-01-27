@@ -96,7 +96,7 @@ The steps above must be completed before you can continue.
 
 1. [] Copy any content into the `Quizzes\Quiz1` folder by adding it _directly_ to the `INFO.md` file
    - There are other `INFO.md` files. Don't add your content anywhere else.
-
+ THIS IS THE SHEET 6 rect() and sadness.
 2. [] Read the `README.md` from the `top` directory of your new repo
    - [] Follow the instructions
    - [] and then come back here
