@@ -39,11 +39,11 @@ Once you complete each step, check it complete.
 
 The steps above must be completed before you can continue.
 
-1. [] Find your way to our `GitHub` organization page [robots-make-art-too](https://github.com/robots-make-art-too)
-   - [] Locate the `Teams` tab
-   - [] request to join your _Lab #_ team
-   - [] request to join your _Lab TAs_ team
-   - [] request to join the _Quiz 1_ team
+1. [X] Find your way to our `GitHub` organization page [robots-make-art-too](https://github.com/robots-make-art-too)
+   - [X] Locate the `Teams` tab
+   - [X] request to join your _Lab #_ team
+   - [X] request to join your _Lab TAs_ team
+   - [X] request to join the _Quiz 1_ team
 
    > let _your instructor know_ when you have sent the request: *SO IT CAN BE APPROVED ASAP*
 
